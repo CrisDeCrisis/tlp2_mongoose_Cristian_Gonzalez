@@ -6,11 +6,11 @@ Un comercio de suministros de limpieza requiere que cada uno de sus empleados pu
 registrar sus ventas de forma individual. Además, los empleados deben tener acceso a la
 aplicación utilizando credenciales.
 
-## Abordando la problematica:
+## Abordando la problemática:
 
 Dentro del contexto logramos identificar la necesidad de guardar los datos tanto de
 empleados, como de las ventas. También inferimos que se requiere una colección
-para guardar los productos de dicho comercio. Se tomó la decisión de auntenticar
+para guardar los productos de dicho comercio. Se tomó la decisión de autenticar
 al usuario, requiriendo su correo, una contraseña, y su huella digital.
 
 ### Tipos de relaciones:
